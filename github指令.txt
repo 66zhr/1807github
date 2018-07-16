@@ -28,5 +28,12 @@ git reset --hard 哈希值;
 
 	版本回溯; 
 
+git remote add origin 你的仓库名
+
+	给你的 远程仓库名改成别名;
+
+git push -u origin master;
+
+	将本地仓库推送到远程端;
 
 
